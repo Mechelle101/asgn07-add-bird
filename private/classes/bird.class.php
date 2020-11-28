@@ -3,7 +3,6 @@
  class Bird {
 
     // -- Start of Active Record Code -- //
-    
     static protected $database;
 
     static public function set_database($database) {
